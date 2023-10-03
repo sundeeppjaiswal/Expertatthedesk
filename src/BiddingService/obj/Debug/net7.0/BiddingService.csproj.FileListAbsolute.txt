@@ -1,0 +1,6 @@
+C:\Sundeep\Projects\Dotnet\GIT_DOTNET\Carsties\src\BiddingService\obj\Debug\net7.0\BiddingService.csproj.AssemblyReference.cache
+C:\Sundeep\Projects\Dotnet\GIT_DOTNET\Carsties\src\BiddingService\obj\Debug\net7.0\BiddingService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sundeep\Projects\Dotnet\GIT_DOTNET\Carsties\src\BiddingService\obj\Debug\net7.0\BiddingService.AssemblyInfoInputs.cache
+C:\Sundeep\Projects\Dotnet\GIT_DOTNET\Carsties\src\BiddingService\obj\Debug\net7.0\BiddingService.AssemblyInfo.cs
+C:\Sundeep\Projects\Dotnet\GIT_DOTNET\Carsties\src\BiddingService\obj\Debug\net7.0\BiddingService.csproj.CoreCompileInputs.cache
+C:\Sundeep\Projects\Dotnet\GIT_DOTNET\Carsties\src\BiddingService\obj\Debug\net7.0\BiddingService.MvcApplicationPartsAssemblyInfo.cache

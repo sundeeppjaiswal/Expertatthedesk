@@ -1,0 +1,6 @@
+C:\Sundeep\Projects\Dotnet\GIT_DOTNET\ExpertAtDesk\ExpertAtDesk_1.0\tests\AuctionService.UnitTests\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\Sundeep\Projects\Dotnet\GIT_DOTNET\ExpertAtDesk\ExpertAtDesk_1.0\tests\AuctionService.UnitTests\obj\Debug\net7.0\AuctionService.UnitTests.csproj.AssemblyReference.cache
+C:\Sundeep\Projects\Dotnet\GIT_DOTNET\ExpertAtDesk\ExpertAtDesk_1.0\tests\AuctionService.UnitTests\obj\Debug\net7.0\AuctionService.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sundeep\Projects\Dotnet\GIT_DOTNET\ExpertAtDesk\ExpertAtDesk_1.0\tests\AuctionService.UnitTests\obj\Debug\net7.0\AuctionService.UnitTests.AssemblyInfoInputs.cache
+C:\Sundeep\Projects\Dotnet\GIT_DOTNET\ExpertAtDesk\ExpertAtDesk_1.0\tests\AuctionService.UnitTests\obj\Debug\net7.0\AuctionService.UnitTests.AssemblyInfo.cs
+C:\Sundeep\Projects\Dotnet\GIT_DOTNET\ExpertAtDesk\ExpertAtDesk_1.0\tests\AuctionService.UnitTests\obj\Debug\net7.0\AuctionService.UnitTests.csproj.CoreCompileInputs.cache

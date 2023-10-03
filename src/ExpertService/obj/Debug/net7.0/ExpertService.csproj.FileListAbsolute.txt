@@ -1,0 +1,6 @@
+C:\Sundeep\Projects\Dotnet\GIT_DOTNET\ExpertAtDesk\ExpertAtDesk_1.0\src\ExpertService\obj\Debug\net7.0\ExpertService.csproj.AssemblyReference.cache
+C:\Sundeep\Projects\Dotnet\GIT_DOTNET\ExpertAtDesk\ExpertAtDesk_1.0\src\ExpertService\obj\Debug\net7.0\ExpertService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sundeep\Projects\Dotnet\GIT_DOTNET\ExpertAtDesk\ExpertAtDesk_1.0\src\ExpertService\obj\Debug\net7.0\ExpertService.AssemblyInfoInputs.cache
+C:\Sundeep\Projects\Dotnet\GIT_DOTNET\ExpertAtDesk\ExpertAtDesk_1.0\src\ExpertService\obj\Debug\net7.0\ExpertService.AssemblyInfo.cs
+C:\Sundeep\Projects\Dotnet\GIT_DOTNET\ExpertAtDesk\ExpertAtDesk_1.0\src\ExpertService\obj\Debug\net7.0\ExpertService.csproj.CoreCompileInputs.cache
+C:\Sundeep\Projects\Dotnet\GIT_DOTNET\ExpertAtDesk\ExpertAtDesk_1.0\src\ExpertService\obj\Debug\net7.0\ExpertService.MvcApplicationPartsAssemblyInfo.cache

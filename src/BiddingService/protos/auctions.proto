@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option csharp_namespace = "ExpertService";
+
+service GrpcExpert {
+    rpc GetExpert (GetExpertRequest) returns (GrpcExpertResponse);
+}
+
+message GetExpertRequest {
+    string id = 1;
+}
+
+message GrpcExpertModel {
+    string id = 1;
+    string seller = 2;
+    string ExpertEnd = 3;
+    int32 reservePrice = 4;
+}
+
+message GrpcExpertResponse {
+    GrpcExpertModel Expert = 1;
+}

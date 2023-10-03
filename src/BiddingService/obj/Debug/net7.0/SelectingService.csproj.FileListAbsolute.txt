@@ -1,0 +1,6 @@
+C:\Sundeep\Projects\Dotnet\GIT_DOTNET\ExpertAtDesk\ExpertAtDesk_1.0\src\BiddingService\obj\Debug\net7.0\SelectingService.csproj.AssemblyReference.cache
+C:\Sundeep\Projects\Dotnet\GIT_DOTNET\ExpertAtDesk\ExpertAtDesk_1.0\src\BiddingService\obj\Debug\net7.0\SelectingService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sundeep\Projects\Dotnet\GIT_DOTNET\ExpertAtDesk\ExpertAtDesk_1.0\src\BiddingService\obj\Debug\net7.0\SelectingService.AssemblyInfoInputs.cache
+C:\Sundeep\Projects\Dotnet\GIT_DOTNET\ExpertAtDesk\ExpertAtDesk_1.0\src\BiddingService\obj\Debug\net7.0\SelectingService.AssemblyInfo.cs
+C:\Sundeep\Projects\Dotnet\GIT_DOTNET\ExpertAtDesk\ExpertAtDesk_1.0\src\BiddingService\obj\Debug\net7.0\SelectingService.csproj.CoreCompileInputs.cache
+C:\Sundeep\Projects\Dotnet\GIT_DOTNET\ExpertAtDesk\ExpertAtDesk_1.0\src\BiddingService\obj\Debug\net7.0\SelectingService.MvcApplicationPartsAssemblyInfo.cache
