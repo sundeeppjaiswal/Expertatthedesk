@@ -2103,11 +2103,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Sundeep\\Projects\\Dotnet\\GIT_DOTNET\\ExpertAtDesk\\Expertatthedesk\\ExpertAtDesk_1.0\\src\\SearchService\\SearchService.csproj",
+      "projectUniqueName": "c:\\Sundeep\\Projects\\Dotnet\\GIT_DOTNET\\ExpertAtDesk\\Expertatthedesk\\src\\SearchService\\SearchService.csproj",
       "projectName": "SearchService",
-      "projectPath": "c:\\Sundeep\\Projects\\Dotnet\\GIT_DOTNET\\ExpertAtDesk\\Expertatthedesk\\ExpertAtDesk_1.0\\src\\SearchService\\SearchService.csproj",
+      "projectPath": "c:\\Sundeep\\Projects\\Dotnet\\GIT_DOTNET\\ExpertAtDesk\\Expertatthedesk\\src\\SearchService\\SearchService.csproj",
       "packagesPath": "C:\\Users\\sunde\\.nuget\\packages\\",
-      "outputPath": "c:\\Sundeep\\Projects\\Dotnet\\GIT_DOTNET\\ExpertAtDesk\\Expertatthedesk\\ExpertAtDesk_1.0\\src\\SearchService\\obj\\",
+      "outputPath": "c:\\Sundeep\\Projects\\Dotnet\\GIT_DOTNET\\ExpertAtDesk\\Expertatthedesk\\src\\SearchService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2128,8 +2128,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\Sundeep\\Projects\\Dotnet\\GIT_DOTNET\\ExpertAtDesk\\Expertatthedesk\\ExpertAtDesk_1.0\\src\\Contracts\\Contracts.csproj": {
-              "projectPath": "c:\\Sundeep\\Projects\\Dotnet\\GIT_DOTNET\\ExpertAtDesk\\Expertatthedesk\\ExpertAtDesk_1.0\\src\\Contracts\\Contracts.csproj"
+            "c:\\Sundeep\\Projects\\Dotnet\\GIT_DOTNET\\ExpertAtDesk\\Expertatthedesk\\src\\Contracts\\Contracts.csproj": {
+              "projectPath": "c:\\Sundeep\\Projects\\Dotnet\\GIT_DOTNET\\ExpertAtDesk\\Expertatthedesk\\src\\Contracts\\Contracts.csproj"
             }
           }
         }

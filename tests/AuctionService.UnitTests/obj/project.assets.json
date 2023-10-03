@@ -8067,11 +8067,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Sundeep\\Projects\\Dotnet\\GIT_DOTNET\\ExpertAtDesk\\Expertatthedesk\\ExpertAtDesk_1.0\\tests\\AuctionService.UnitTests\\AuctionService.UnitTests.csproj",
+      "projectUniqueName": "c:\\Sundeep\\Projects\\Dotnet\\GIT_DOTNET\\ExpertAtDesk\\Expertatthedesk\\tests\\AuctionService.UnitTests\\AuctionService.UnitTests.csproj",
       "projectName": "AuctionService.UnitTests",
-      "projectPath": "c:\\Sundeep\\Projects\\Dotnet\\GIT_DOTNET\\ExpertAtDesk\\Expertatthedesk\\ExpertAtDesk_1.0\\tests\\AuctionService.UnitTests\\AuctionService.UnitTests.csproj",
+      "projectPath": "c:\\Sundeep\\Projects\\Dotnet\\GIT_DOTNET\\ExpertAtDesk\\Expertatthedesk\\tests\\AuctionService.UnitTests\\AuctionService.UnitTests.csproj",
       "packagesPath": "C:\\Users\\sunde\\.nuget\\packages\\",
-      "outputPath": "c:\\Sundeep\\Projects\\Dotnet\\GIT_DOTNET\\ExpertAtDesk\\Expertatthedesk\\ExpertAtDesk_1.0\\tests\\AuctionService.UnitTests\\obj\\",
+      "outputPath": "c:\\Sundeep\\Projects\\Dotnet\\GIT_DOTNET\\ExpertAtDesk\\Expertatthedesk\\tests\\AuctionService.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8092,8 +8092,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\Sundeep\\Projects\\Dotnet\\GIT_DOTNET\\ExpertAtDesk\\Expertatthedesk\\ExpertAtDesk_1.0\\src\\ExpertService\\ExpertService.csproj": {
-              "projectPath": "c:\\Sundeep\\Projects\\Dotnet\\GIT_DOTNET\\ExpertAtDesk\\Expertatthedesk\\ExpertAtDesk_1.0\\src\\ExpertService\\ExpertService.csproj"
+            "c:\\Sundeep\\Projects\\Dotnet\\GIT_DOTNET\\ExpertAtDesk\\Expertatthedesk\\src\\ExpertService\\ExpertService.csproj": {
+              "projectPath": "c:\\Sundeep\\Projects\\Dotnet\\GIT_DOTNET\\ExpertAtDesk\\Expertatthedesk\\src\\ExpertService\\ExpertService.csproj"
             }
           }
         }

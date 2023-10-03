@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lpGHPn6oLC5CbmaP2TayeBLGcXnAKeUNY17Dltg0F3xN49PfSezUVqjlGsktshWdoc+ZxG1tiQJOWTzDsXM/iw==",
+  "dgSpecHash": "xRFeYd6NkmFyKSHtaWRxjE6qpHjvxa+0fatgSUJmb4QcPreWZ3j/gdZ188C02vcEwJm/5swLpkE1WlrtkJUblA==",
   "success": true,
-  "projectFilePath": "c:\\Sundeep\\Projects\\Dotnet\\GIT_DOTNET\\ExpertAtDesk\\Expertatthedesk\\ExpertAtDesk_1.0\\src\\ExpertService\\ExpertService.csproj",
+  "projectFilePath": "c:\\Sundeep\\Projects\\Dotnet\\GIT_DOTNET\\ExpertAtDesk\\Expertatthedesk\\src\\ExpertService\\ExpertService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sunde\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\sunde\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

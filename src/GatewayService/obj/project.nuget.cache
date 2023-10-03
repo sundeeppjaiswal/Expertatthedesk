@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G86faeFhQA1nDerDD7eGC5TpIayPV9xghb5ymjvFPs+If+QSHjVo4FJvhddEtULJ+RfaUcYQifH7B1bgS44Brg==",
+  "dgSpecHash": "geQ4P1arADVNlGRpozP843AakyG/Xt7gEWPB1g/qkP0ELT+wzjn6Rs2WCdrZOGA6z9K1NQIzHAiw9yNomCkccA==",
   "success": true,
-  "projectFilePath": "c:\\Sundeep\\Projects\\Dotnet\\GIT_DOTNET\\ExpertAtDesk\\Expertatthedesk\\ExpertAtDesk_1.0\\src\\GatewayService\\GatewayService.csproj",
+  "projectFilePath": "c:\\Sundeep\\Projects\\Dotnet\\GIT_DOTNET\\ExpertAtDesk\\Expertatthedesk\\src\\GatewayService\\GatewayService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sunde\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.8\\microsoft.aspnetcore.authentication.jwtbearer.7.0.8.nupkg.sha512",
     "C:\\Users\\sunde\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

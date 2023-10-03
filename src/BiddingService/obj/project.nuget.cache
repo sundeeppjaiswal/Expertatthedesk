@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Sp1ImGXmk/SECeAKW1M3g56j1fFvhg+ccyuxssUXTBy4r3cM8TUD94n3V4vhXumw5yOSGFdraIXYIIQIDutr8A==",
+  "dgSpecHash": "pRkeUIV+gfmjHQViNSzM++VL1L2zLqRAiOIp7pSzBti+IeQcXYh/LqcHFXsuUI+foRIQye62K6ERS4qevTSjXw==",
   "success": true,
-  "projectFilePath": "c:\\Sundeep\\Projects\\Dotnet\\GIT_DOTNET\\ExpertAtDesk\\Expertatthedesk\\ExpertAtDesk_1.0\\src\\BiddingService\\SelectingService.csproj",
+  "projectFilePath": "c:\\Sundeep\\Projects\\Dotnet\\GIT_DOTNET\\ExpertAtDesk\\Expertatthedesk\\src\\BiddingService\\SelectingService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sunde\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\sunde\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

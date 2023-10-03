@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Contracts
-build_property.ProjectDir = c:\Sundeep\Projects\Dotnet\GIT_DOTNET\ExpertAtDesk\Expertatthedesk\ExpertAtDesk_1.0\src\Contracts\
+build_property.ProjectDir = c:\Sundeep\Projects\Dotnet\GIT_DOTNET\ExpertAtDesk\Expertatthedesk\src\Contracts\

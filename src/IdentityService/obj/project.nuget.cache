@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VHH5k4eP/PxV3kLKJUZn5og7j1ic0gOMRX20QsJrKkBt7L+Zc9DL0COudpwXdWz+WdjBFM4/y/LoKydFZXr8fA==",
+  "dgSpecHash": "0CKNJNO4O7MD7uWV054HbU1B4hsREt8zEcOq5AU/D86ZRhHWIgn7SZZL6qoYKZBf+Q9JHD8CzWDiXFp7mB0yhw==",
   "success": true,
-  "projectFilePath": "c:\\Sundeep\\Projects\\Dotnet\\GIT_DOTNET\\ExpertAtDesk\\Expertatthedesk\\ExpertAtDesk_1.0\\src\\IdentityService\\IdentityService.csproj",
+  "projectFilePath": "c:\\Sundeep\\Projects\\Dotnet\\GIT_DOTNET\\ExpertAtDesk\\Expertatthedesk\\src\\IdentityService\\IdentityService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sunde\\.nuget\\packages\\duende.identityserver\\6.3.0\\duende.identityserver.6.3.0.nupkg.sha512",
     "C:\\Users\\sunde\\.nuget\\packages\\duende.identityserver.aspnetidentity\\6.3.0\\duende.identityserver.aspnetidentity.6.3.0.nupkg.sha512",
